@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0eb85f746c6d44c4c8c09cc23d58c1cb
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 120
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Space Age Large
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
