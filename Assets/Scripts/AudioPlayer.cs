@@ -20,7 +20,7 @@ public class AudioPlayer : MonoBehaviour {
 	void OnTriggerExit(Collider other){
 		if(other.CompareTag("Player")){
 			audioSource.Pause();
-			Debug.Log ("stop");
+			Debug.Log("stop");
 		}
 	}
 }
